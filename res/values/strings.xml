@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Password Transformation</string>
+    <string name="inputpassword">Input Password :</string>
+    <string name="showpassword">Show Password</string>
+    <string name="menu_sourcecode">View Source Code</string>
+    <string name="menu_quitapp">Quit App</string>
+    <string name="title_activity_source_code">Source Code</string>
+
+</resources>
